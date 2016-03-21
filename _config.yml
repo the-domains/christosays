@@ -1,4 +1,4 @@
-name: christosays
+name: 'ChristoSays!'
 favicon: null
 layout_spectrum: 0.9389184289611876
 typography_spectrum: 0.5712214061059058
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.22452702187001705
+    - '#433a3f'
+    - '#07060c'
+    - '#787e8a'
+    - '#b1aba9'
+    - '#f7f1f1'
+  brandStrength: 0.875
   lightness: 0.21348761557601392
-  saturation: 0.20926417410373688
+  saturation: 0.125
   rhythmicContrast: 0.9991065389476717
 purpose: []
