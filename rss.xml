@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[christosays]]></title>
+        <description><![CDATA[christosays]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 00:19:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My Lumia 950XL]]></title>
+            <description><![CDATA[<article><h1>My Lumia 950XL</h1><p>The last high-end Windows phone that I owned was the Lumia 928 back in May 2013. Since then I've owned a Lumia 635 and 640, one a low-end device and the other mid-range respectively (plus an iPhone 6 but we won't go there for now). In steps the Microsoft Lumia 950 XL...</p></article>]]></description>
+            <link>undefinedmy-lumia-950xl/index.html</link>
+            <guid isPermaLink="false">f515815e-6ecf-44d8-bfe0-90bb426bd65d</guid>
+            <pubDate>Mon, 21 Mar 2016 00:19:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
