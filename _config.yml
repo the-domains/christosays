@@ -2,6 +2,7 @@ name: christosays
 favicon: null
 layout_spectrum: 0.9389184289611876
 typography_spectrum: 0.5712214061059058
+title: null
 cta:
   domain: null
   bucket: null
